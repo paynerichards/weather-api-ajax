@@ -1,0 +1,40 @@
+
+
+body{
+	background-color: rgb(75, 143, 187);
+	color: white;
+	font-family: helvetica;
+}
+
+#mainDisplay{
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+.internal{
+	margin: 0 auto;
+
+
+}
+#temp{
+	font-size: 100px;
+}
+#city{
+	font-size: 32px;
+}
+#condition{
+	font-size: 24px;
+}
+#highLow{
+	margin: 0 auto;
+	text-align: center;
+	display: flex;
+	justify-content: space-between;
+
+}
+.hL{
+	text-align: center;
+
+
+}
